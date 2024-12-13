@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5930d5ed.css",
+    "main.js": "/static/js/main.301fb54b.js",
+    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/home_bg.jpg": "/static/media/home_bg.c42cc7bd997a8113f548.jpg",
+    "static/media/image1.jpg": "/static/media/image1.43a19b99bd81b13c00a2.jpg",
+    "static/media/First.jpg": "/static/media/First.b1381f6c1c7de7835213.jpg",
+    "static/media/logo.png": "/static/media/logo.d225dd0b416a7c1c836f.png",
+    "static/media/Indiamap.png": "/static/media/Indiamap.f139f03adb64f9df8bec.png",
+    "static/media/second.jpg": "/static/media/second.019f75a3d0573342c77a.jpg",
+    "static/media/Third.jpg": "/static/media/Third.1ade285e900dda2e5865.jpg",
+    "static/media/sight savers.png": "/static/media/sight savers.fab5c6adcad20d8a805e.png",
+    "static/media/image2.jpg": "/static/media/image2.b11dda3d47741c8e3009.jpg",
+    "static/media/fourth.jpg": "/static/media/fourth.2a1f26f04322a89d181b.jpg",
+    "static/media/Second.jpg": "/static/media/Second.4b291bf32690ca750af4.jpg",
+    "static/media/first.jpg": "/static/media/first.6f45e715d8aecba68ecf.jpg",
+    "static/media/india cares.jpg": "/static/media/india cares.29f624d02f3bc99e5f29.jpg",
+    "static/media/magic bus.jpg": "/static/media/magic bus.cd21c54c21b82fcfa8a3.jpg",
+    "static/media/third.jpg": "/static/media/third.d8ce0e8e9bdf4e1963fa.jpg",
+    "static/media/smile foundation.jpg": "/static/media/smile foundation.b78b3db60f1ec84c28c8.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.116ad97e1f8e0638fcb7.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.83f494119e2a84b5a3e0.svg",
+    "static/media/twitter.svg": "/static/media/twitter.0407223bb7bca83e1349.svg",
+    "static/media/youtube.svg": "/static/media/youtube.03ce3320ff936a5602d0.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.d0e6c35f87cabc4c3d01.svg",
+    "main.5930d5ed.css.map": "/static/css/main.5930d5ed.css.map",
+    "main.301fb54b.js.map": "/static/js/main.301fb54b.js.map",
+    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5930d5ed.css",
+    "static/js/main.301fb54b.js"
+  ]
+}
