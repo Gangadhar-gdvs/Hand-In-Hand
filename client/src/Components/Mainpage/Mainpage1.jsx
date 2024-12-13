@@ -19,7 +19,7 @@ const Card = () => {
       <div className="card-side card-side-back">
         <h3>RARE DISEASES</h3>
         <p className='text'>Rare diseases, also known as orphan diseases, are a group of disorders that affect a small percentage of the population. These conditions are characterized by their low prevalence, often affecting fewer than 1 in 2,000 people. While each individual rare disease is uncommon, collectively they impact a significant number of individuals worldwide.</p>
-        <a href="/thirdpage" className='btn'>View Details</a>
+        <Link to="/thirdpage" className='btn'>View Details</Link>
       </div>
     </div>
     <div className="card">
@@ -31,7 +31,7 @@ const Card = () => {
       <div className="card-side card-side-back1">
         <h3>HOSPITALS</h3>
         <p className='text'>Hospitals are healthcare institutions designed to provide a wide range of medical services, treatment, and care to individuals with various health conditions. These institutions play a crucial role in the healthcare system and are often equipped with advanced medical technology and a diverse team of healthcare professionals. Here is a brief description of hospitals.</p>
-       <a href="/fifthpage" className='btn'>View Details</a>
+       <Link to="/fifthpage" className='btn'>View Details</Link>
       </div>
     </div>
     <div className="card">
@@ -55,7 +55,7 @@ const Card = () => {
       <div className="card-side card-side-back3">
         <h3>HELPLINES</h3>
         <p className='text'>Helpline centers are specialized facilities or services that provide assistance, support, and information to individuals in need through telephone, online chat, or other communication channels. These centers are often established to address specific issues or concerns and are staffed by trained professionals or volunteers. Here's a description of helpline centers.</p> 
-       <a href="/sixthpage" className='btn'>View Details</a>
+       <Link to="/sixthpage" className='btn'>View Details</Link>
       </div>
     </div>
     
